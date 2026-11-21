@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="Thermalair Inc. logo">
+  <rect width="320" height="64" rx="6" fill="#081C33"/>
+  <g transform="translate(14,14)">
+    <path d="M4 18 L18 4 L32 18 L18 32 Z" fill="none" stroke="#2AB7CA" stroke-width="2.5"/>
+    <path d="M18 10 L26 18 L18 26 L10 18 Z" fill="#E85D26"/>
+    <circle cx="18" cy="18" r="3" fill="#fff"/>
+  </g>
+  <text x="58" y="30" font-family="Archivo, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="2.5" fill="#FFFFFF">THERMAL<tspan fill="#2AB7CA">AIR</tspan></text>
+  <text x="59" y="48" font-family="Arial, sans-serif" font-size="9" letter-spacing="4" fill="#9FB8D0">INC. • EST. 1948</text>
+</svg>
